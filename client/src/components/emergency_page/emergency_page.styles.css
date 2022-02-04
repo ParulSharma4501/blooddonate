@@ -1,0 +1,22 @@
+.emergency_form {
+  width: 50%;
+  margin: auto;
+    background-color: white;
+    opacity: 80%;
+    padding: 40px;
+    padding-top: 20px;
+    margin-top: 4%;
+    /* margin-bottom: 0%; */
+    font-size: 14px;
+}
+.emergencybody{
+    background-image: url("../../assets//4.jpg");
+    background-size: 100% 1200px;
+    height: 100vh;
+    width: 100vw;
+    /* opacity: 80%; */
+    font-family: 'Montserrat',
+    sans-serif;
+    overflow-x: hidden;
+    /* margin-bottom: 5%; */
+}
